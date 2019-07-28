@@ -1,5 +1,13 @@
 body {
   width: 100%;
   height: 100%;
-  margin: 0;
+  align-content: center;
+}
+
+header > nav {
+  align-content: center;
+}
+
+body > header > h1 {
+  align-content: center;
 }
