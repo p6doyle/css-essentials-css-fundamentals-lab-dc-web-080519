@@ -7,3 +7,7 @@ body {
 header > nav {
   align-content: center;
 }
+
+body > header > h1 {
+  align-content: center;
+}
