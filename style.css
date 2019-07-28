@@ -4,6 +4,6 @@ body {
   align-content: center;
 }
 
-header nav {
+header > nav {
   align-content: center;
 }
